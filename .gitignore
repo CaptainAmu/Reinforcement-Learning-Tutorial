@@ -1,8 +1,0 @@
-notebooks/unit3/unit3_add_chal1/rl_trained/
-notebooks/unit3/unit3_add_chal1/rl_from_scratch/
-notebooks/unit3/unit3_add_chal1/hub/
-*.zip
-*.npz
-*.csv
-wandb/
-tensorboard/
